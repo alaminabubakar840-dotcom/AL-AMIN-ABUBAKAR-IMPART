@@ -1,2 +1,2 @@
 # bug-free-rotary-phone
-thesre is create for your favourite need
+these is create for your favourite need
