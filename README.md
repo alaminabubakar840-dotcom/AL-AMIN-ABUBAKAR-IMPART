@@ -1,17 +1,42 @@
-Hello, I am Al-Amin Abubakar, a Computer Science student and Frontend Developer. I am passionate about web development and technology innovation. Through AAI (Al-Amin Abubakar IMPART), I aim to create modern digital solutions while expanding my skills in Full Stack Development and Software Engineering.
+# Hi 👋, I'm Al-Amin Abubakar
 
+### Frontend Developer | Computer Science Student
 
- About Me
-- Computer Science Student
-- Frontend Developer
-- Learning Full Stack Development
-- Founder of AAI (Al-Amin Abubakar Innovation)
+Welcome to my GitHub profile!
 
- Skills
+## 👨‍💻 About Me
+I am Al-Amin Abubakar, a Computer Science student passionate about technology and innovation. I specialize in Frontend Development and I am currently learning Full Stack Development to build modern, responsive, and user-friendly web applications.
+
+I am also the founder of **AAI (Al-Amin Abubakar Infart)**, a personal brand that represents creativity, innovation, and digital solutions.
+
+## 🚀 Skills
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
+- Responsive Web Design
 
-Current Goal
-To become a professional Full Stack Developer and Software Engineer.
+## 📚 Currently Learning
+- React.js
+- Node.js
+- Database Management
+- Full Stack Development
+
+## 🎯 Goals
+- Become a Professional Full Stack Developer
+- Build Innovative Digital Solutions
+- Contribute to Open Source Projects
+- Improve My Programming Skills
+
+## 📂 Projects
+- Login Form
+- Calculator App
+- Portfolio Website
+- Student Registration System
+- Birth and Death Registration System
+
+## 📫 Contact Me
+Email: your-email@example.com
+
+### AAI - Al-Amin Abubakar InFART
+"Creativity • Innovation • Digital Solutions"
