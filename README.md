@@ -1,4 +1,4 @@
-# Hi 👋, I'm Al-Amin Abubakar
+# Hi , I'm Al-Amin Abubakar
 
 ### Frontend Developer | Computer Science Student
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 I am Al-Amin Abubakar, a Computer Science student passionate about technology and innovation. I specialize in Frontend Development and I am currently learning Full Stack Development to build modern, responsive, and user-friendly web applications.
 
-I am also the founder of **AAI (Al-Amin Abubakar Infart)**, a personal brand that represents creativity, innovation, and digital solutions.
+I am also the founder of **AAI (Al-Amin Abubakar IMPACT)**, a personal brand that represents creativity, innovation, and digital solutions.
 
 ## 🚀 Skills
 - HTML
@@ -36,7 +36,7 @@ I am also the founder of **AAI (Al-Amin Abubakar Infart)**, a personal brand tha
 - Birth and Death Registration System
 
 ## 📫 Contact Me
-Email: your-email@example.com
+Email: your-alaminabubakar@gmail.com
 
-### AAI - Al-Amin Abubakar InFART
+### AAI - Al-Amin Abubakar InPACT
 "Creativity • Innovation • Digital Solutions"
