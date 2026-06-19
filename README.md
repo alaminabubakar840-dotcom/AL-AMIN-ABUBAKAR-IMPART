@@ -1,4 +1,4 @@
-# Hi , I'm Al-Amin Abubakar
+# Hi ,m Al-Amin Abubakar
 
 ### Frontend Developer | Computer Science Student
 
