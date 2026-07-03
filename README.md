@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Hi ,m Al-Amin Abubakar
 
 ### Frontend Developer | Computer Science Student
@@ -40,3 +41,6 @@ Email: your-alaminabubakar@gmail.com
 
 ### AAI - Al-Amin Abubakar InPACT
 "Creativity • Innovation • Digital Solutions"
+=======
+
+>>>>>>> Stashed changes
